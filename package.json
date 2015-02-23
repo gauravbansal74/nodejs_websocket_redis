@@ -1,0 +1,10 @@
+{
+  "name": "lyfe_evolution_chat",
+  "version": "0.0.1",
+  "description": "lyfe evolution chat engine",
+  "dependencies": {
+    "hiredis": "^0.2.0",
+    "redis": "^0.12.1",
+    "websocket": "^1.0.17"
+  }
+}
