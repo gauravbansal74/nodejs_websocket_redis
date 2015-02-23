@@ -1,9 +1,4 @@
-/**
-		 *	File 			Server.js
-		 * 	@version 		0.0.1
-		 * 	@author 		Gaurav Kumar		<gauravbansal74@gmail.com>
-*/	
-
+# Sample Application using NodeJS+Websockets+Redis
 
 1. git clone https://github.com/gauravbansal74/nodejs_websocket_redis.git
 
